@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nirakar-Sapkota
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning React and CyberSecurity
 - 💞️ I’m looking to collaborate on projects
 - 📫 You can contact me on github or via email : emailtonirakar@gmail.com
 
